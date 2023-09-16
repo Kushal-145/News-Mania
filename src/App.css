@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.head{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -36,3 +39,20 @@
     transform: rotate(360deg);
   }
 }
+.text-center{
+
+}
+.new{
+scale: 0.3;
+padding-top:-30%;
+margin-bottom:-6rem;
+margin-top:-4rem ;
+ 
+}
+.via{
+display: flex;
+justify-content: flex-end;
+right:0;
+position:absolute;
+}
+
